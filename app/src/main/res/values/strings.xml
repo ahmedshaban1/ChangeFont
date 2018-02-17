@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChangeFontInxml</string>
+    <string name="font">fonts/font.TTF</string>
+</resources>
